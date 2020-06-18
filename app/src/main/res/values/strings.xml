@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Second</string>
+    <string name="authorize">确定授权</string>
+    <string name="auth_page">这是授权页面</string>
+</resources>
